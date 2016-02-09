@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PlacaCircuito.PrjPCB]
+   Generated File[TFR_Soccer_2015.RUL]
+   Generated File[TFR_Soccer_2015.EXTREP]
+   Generated File[TFR_Soccer_2015.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:16:23 On 27/08/2015

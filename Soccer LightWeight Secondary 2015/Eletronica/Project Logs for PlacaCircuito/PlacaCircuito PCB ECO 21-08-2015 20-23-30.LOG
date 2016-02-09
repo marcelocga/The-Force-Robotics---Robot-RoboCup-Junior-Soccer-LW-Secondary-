@@ -1,0 +1,350 @@
+Added Component: Designator=ArduinoDue(Arduino)
+Added Component: Designator=FC1(HDR1X4)
+Added Component: Designator=FC2(HDR1X4)
+Added Component: Designator=FC3(HDR1X4)
+Added Component: Designator=FC4(HDR1X4)
+Added Component: Designator=FC5(HDR1X4)
+Added Component: Designator=FC6(HDR1X4)
+Added Component: Designator=FC7(HDR1X4)
+Added Component: Designator=FC8(HDR1X4)
+Added Component: Designator=FC9(HDR1X4)
+Added Component: Designator=FC10(HDR1X4)
+Added Component: Designator=FC11(HDR1X4)
+Added Component: Designator=FC12(HDR1X4)
+Added Component: Designator=FC13(HDR1X4)
+Added Component: Designator=FC14(HDR1X4)
+Added Component: Designator=FC15(HDR1X4)
+Added Component: Designator=FC16(HDR1X4)
+Added Component: Designator=FC17(HDR1X7)
+Added Component: Designator=FC18(HDR1X7)
+Added Component: Designator=FC19(HDR1X7)
+Added Component: Designator=FC20(HDR1X7)
+Added Component: Designator=FC21(HDR1X3)
+Added Component: Designator=FC22(HDR1X3)
+Added Component: Designator=FC23(HDR1X3)
+Added Component: Designator=FC24(HDR1X3)
+Added Component: Designator=FC25(HDR1X2)
+Added Component: Designator=FC26(HDR1X18)
+Added Component: Designator=FC 27(HDR1X18)
+Added Component: Designator=FC 28(HDR1X2)
+Added Component: Designator=FC 29(HDR1X2)
+Added Component: Designator=FC 30(HDR1X6)
+Added Component: Designator=FC 31(HDR1X13)
+Added Component: Designator=FC 32(HDR1X4)
+Added Component: Designator=FCT 1(HDR1X6)
+Added Component: Designator=FCT 2(HDR1X7)
+Added Component: Designator=FCT 3(HDR1X7)
+Added Component: Designator=J1(HDR1X3)
+Added Component: Designator=J2(HDR1X3)
+Added Component: Designator=J3(HDR1X3)
+Added Component: Designator=J4(HDR1X3)
+Added Component: Designator=J5(HDR1X3)
+Added Component: Designator=J6(HDR1X3)
+Added Component: Designator=J7(HDR1X3)
+Added Component: Designator=J8(HDR1X3)
+Added Component: Designator=J9(HDR1X2)
+Added Component: Designator=J10(HDR1X2)
+Added Component: Designator=J11(HDR1X2)
+Added Component: Designator=J12(HDR1X2)
+Added Component: Designator=J13(HDR1X2)
+Added Component: Designator=J14(HDR1X2)
+Added Component: Designator=Regulador de Tensão A(PCBComponent_1)
+Added Component: Designator=Regulador de Tensão B(PCBComponent_1)
+Added Pin To Net: NetName=NetArduinoDue_0 Pin=ArduinoDue-0
+Added Pin To Net: NetName=NetArduinoDue_1 Pin=ArduinoDue-1
+Added Pin To Net: NetName=NetArduinoDue_2 Pin=ArduinoDue-2
+Added Pin To Net: NetName=NetArduinoDue_3 Pin=ArduinoDue-3
+Added Pin To Net: NetName=NetArduinoDue_4 Pin=ArduinoDue-4
+Added Pin To Net: NetName=NetArduinoDue_5 Pin=ArduinoDue-5
+Added Pin To Net: NetName=NetArduinoDue_6 Pin=ArduinoDue-6
+Added Pin To Net: NetName=NetArduinoDue_7 Pin=ArduinoDue-7
+Added Pin To Net: NetName=NetArduinoDue_8 Pin=ArduinoDue-8
+Added Pin To Net: NetName=NetArduinoDue_9 Pin=ArduinoDue-9
+Added Pin To Net: NetName=NetArduinoDue_10 Pin=ArduinoDue-10
+Added Pin To Net: NetName=NetArduinoDue_11 Pin=ArduinoDue-11
+Added Pin To Net: NetName=NetArduinoDue_12 Pin=ArduinoDue-12
+Added Pin To Net: NetName=NetArduinoDue_14 Pin=ArduinoDue-14
+Added Pin To Net: NetName=NetArduinoDue_15 Pin=ArduinoDue-15
+Added Pin To Net: NetName=NetArduinoDue_16 Pin=ArduinoDue-16
+Added Pin To Net: NetName=NetArduinoDue_17 Pin=ArduinoDue-17
+Added Pin To Net: NetName=NetArduinoDue_18 Pin=ArduinoDue-18
+Added Pin To Net: NetName=NetArduinoDue_19 Pin=ArduinoDue-19
+Added Pin To Net: NetName=NetArduinoDue_20 Pin=ArduinoDue-20
+Added Pin To Net: NetName=NetArduinoDue_21 Pin=ArduinoDue-21
+Added Pin To Net: NetName=NetArduinoDue_22 Pin=ArduinoDue-22
+Added Pin To Net: NetName=NetArduinoDue_23 Pin=ArduinoDue-23
+Added Pin To Net: NetName=NetArduinoDue_24 Pin=ArduinoDue-24
+Added Pin To Net: NetName=NetArduinoDue_25 Pin=ArduinoDue-25
+Added Pin To Net: NetName=NetArduinoDue_26 Pin=ArduinoDue-26
+Added Pin To Net: NetName=NetArduinoDue_27 Pin=ArduinoDue-27
+Added Pin To Net: NetName=NetArduinoDue_28 Pin=ArduinoDue-28
+Added Pin To Net: NetName=NetArduinoDue_29 Pin=ArduinoDue-29
+Added Pin To Net: NetName=NetArduinoDue_30 Pin=ArduinoDue-30
+Added Pin To Net: NetName=NetArduinoDue_31 Pin=ArduinoDue-31
+Added Pin To Net: NetName=NetArduinoDue_32 Pin=ArduinoDue-32
+Added Pin To Net: NetName=NetArduinoDue_33 Pin=ArduinoDue-33
+Added Pin To Net: NetName=NetArduinoDue_34 Pin=ArduinoDue-34
+Added Pin To Net: NetName=NetArduinoDue_35 Pin=ArduinoDue-35
+Added Pin To Net: NetName=NetArduinoDue_36 Pin=ArduinoDue-36
+Added Pin To Net: NetName=NetArduinoDue_37 Pin=ArduinoDue-37
+Added Pin To Net: NetName=NetArduinoDue_42 Pin=ArduinoDue-42
+Added Pin To Net: NetName=NetArduinoDue_46 Pin=ArduinoDue-46
+Added Pin To Net: NetName=NetArduinoDue_47 Pin=ArduinoDue-47
+Added Pin To Net: NetName=NetArduinoDue_48 Pin=ArduinoDue-48
+Added Pin To Net: NetName=NetArduinoDue_49 Pin=ArduinoDue-49
+Added Pin To Net: NetName=NetArduinoDue_50 Pin=ArduinoDue-50
+Added Pin To Net: NetName=NetArduinoDue_52 Pin=ArduinoDue-52
+Added Pin To Net: NetName=NetArduinoDue_56 Pin=ArduinoDue-56
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=ArduinoDue-58
+Added Pin To Net: NetName=NetArduinoDue_60 Pin=ArduinoDue-60
+Added Pin To Net: NetName=NetArduinoDue_61 Pin=ArduinoDue-61
+Added Pin To Net: NetName=NetArduinoDue_63 Pin=ArduinoDue-63
+Added Pin To Net: NetName=NetArduinoDue_64 Pin=ArduinoDue-64
+Added Pin To Net: NetName=NetArduinoDue_82 Pin=ArduinoDue-82
+Added Pin To Net: NetName=NetArduinoDue_83 Pin=ArduinoDue-83
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC1-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC1-2
+Added Pin To Net: NetName=NetArduinoDue_22 Pin=FC1-4
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC2-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC2-2
+Added Pin To Net: NetName=NetArduinoDue_23 Pin=FC2-4
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC3-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC3-2
+Added Pin To Net: NetName=NetArduinoDue_24 Pin=FC3-4
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC4-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC4-2
+Added Pin To Net: NetName=NetArduinoDue_25 Pin=FC4-4
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC5-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC5-2
+Added Pin To Net: NetName=NetArduinoDue_26 Pin=FC5-4
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC6-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC6-2
+Added Pin To Net: NetName=NetArduinoDue_27 Pin=FC6-4
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC7-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC7-2
+Added Pin To Net: NetName=NetArduinoDue_28 Pin=FC7-4
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC8-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC8-2
+Added Pin To Net: NetName=NetArduinoDue_29 Pin=FC8-4
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC9-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC9-2
+Added Pin To Net: NetName=NetArduinoDue_30 Pin=FC9-4
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC10-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC10-2
+Added Pin To Net: NetName=NetArduinoDue_31 Pin=FC10-4
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC11-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC11-2
+Added Pin To Net: NetName=NetArduinoDue_32 Pin=FC11-4
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC12-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC12-2
+Added Pin To Net: NetName=NetArduinoDue_33 Pin=FC12-4
+Added Pin To Net: NetName=NetFC13_1 Pin=FC13-1
+Added Pin To Net: NetName=NetFC13_2 Pin=FC13-2
+Added Pin To Net: NetName=NetFC13_3 Pin=FC13-3
+Added Pin To Net: NetName=NetFC13_4 Pin=FC13-4
+Added Pin To Net: NetName=NetFC13_1 Pin=FC14-1
+Added Pin To Net: NetName=NetFC14_2 Pin=FC14-2
+Added Pin To Net: NetName=NetFC14_3 Pin=FC14-3
+Added Pin To Net: NetName=NetFC13_4 Pin=FC14-4
+Added Pin To Net: NetName=NetFC13_1 Pin=FC15-1
+Added Pin To Net: NetName=NetFC15_2 Pin=FC15-2
+Added Pin To Net: NetName=NetFC15_3 Pin=FC15-3
+Added Pin To Net: NetName=NetFC13_4 Pin=FC15-4
+Added Pin To Net: NetName=NetFC13_1 Pin=FC16-1
+Added Pin To Net: NetName=NetFC16_2 Pin=FC16-2
+Added Pin To Net: NetName=NetFC16_3 Pin=FC16-3
+Added Pin To Net: NetName=NetFC13_4 Pin=FC16-4
+Added Pin To Net: NetName=NetFC13_4 Pin=FC17-1
+Added Pin To Net: NetName=NetFC13_1 Pin=FC17-2
+Added Pin To Net: NetName=NetFC17_6 Pin=FC17-6
+Added Pin To Net: NetName=NetFC13_4 Pin=FC18-1
+Added Pin To Net: NetName=NetFC13_1 Pin=FC18-2
+Added Pin To Net: NetName=NetFC18_6 Pin=FC18-6
+Added Pin To Net: NetName=NetFC13_4 Pin=FC19-1
+Added Pin To Net: NetName=NetFC13_1 Pin=FC19-2
+Added Pin To Net: NetName=NetFC19_6 Pin=FC19-6
+Added Pin To Net: NetName=NetFC13_4 Pin=FC20-1
+Added Pin To Net: NetName=NetFC13_1 Pin=FC20-2
+Added Pin To Net: NetName=NetFC20_6 Pin=FC20-6
+Added Pin To Net: NetName=NetArduinoDue_46 Pin=FC21-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC21-2
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC21-3
+Added Pin To Net: NetName=NetArduinoDue_47 Pin=FC22-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC22-2
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC22-3
+Added Pin To Net: NetName=NetArduinoDue_48 Pin=FC23-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC23-2
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC23-3
+Added Pin To Net: NetName=NetArduinoDue_49 Pin=FC24-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC24-2
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC24-3
+Added Pin To Net: NetName=NetArduinoDue_50 Pin=FC25-1
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC25-2
+Added Pin To Net: NetName=NetArduinoDue_61 Pin=FC26-1
+Added Pin To Net: NetName=NetArduinoDue_4 Pin=FC26-5
+Added Pin To Net: NetName=NetArduinoDue_5 Pin=FC26-6
+Added Pin To Net: NetName=NetArduinoDue_18 Pin=FC26-9
+Added Pin To Net: NetName=NetArduinoDue_60 Pin=FC26-10
+Added Pin To Net: NetName=NetArduinoDue_2 Pin=FC26-14
+Added Pin To Net: NetName=NetArduinoDue_3 Pin=FC26-15
+Added Pin To Net: NetName=NetFC26_16 Pin=FC26-16
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC26-17
+Added Pin To Net: NetName=NetArduinoDue_63 Pin=FC 27-1
+Added Pin To Net: NetName=NetArduinoDue_8 Pin=FC 27-5
+Added Pin To Net: NetName=NetArduinoDue_9 Pin=FC 27-6
+Added Pin To Net: NetName=NetArduinoDue_19 Pin=FC 27-9
+Added Pin To Net: NetName=NetFC 27_10 Pin=FC 27-10
+Added Pin To Net: NetName=NetArduinoDue_6 Pin=FC 27-14
+Added Pin To Net: NetName=NetArduinoDue_7 Pin=FC 27-15
+Added Pin To Net: NetName=NetFC 27_16 Pin=FC 27-16
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC 27-17
+Added Pin To Net: NetName=NetArduinoDue_52 Pin=FC 28-1
+Added Pin To Net: NetName=NetFC13_4 Pin=FC 28-2
+Added Pin To Net: NetName=NetArduinoDue_64 Pin=FC 29-1
+Added Pin To Net: NetName=NetFC13_4 Pin=FC 29-2
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC 30-1
+Added Pin To Net: NetName=NetFC1_2 Pin=FC 30-3
+Added Pin To Net: NetName=NetArduinoDue_15 Pin=FC 30-4
+Added Pin To Net: NetName=NetArduinoDue_14 Pin=FC 30-5
+Added Pin To Net: NetName=NetFC13_4 Pin=FC 31-1
+Added Pin To Net: NetName=NetFC13_1 Pin=FC 31-2
+Added Pin To Net: NetName=NetArduinoDue_11 Pin=FC 31-3
+Added Pin To Net: NetName=NetArduinoDue_12 Pin=FC 31-4
+Added Pin To Net: NetName=NetFC1_2 Pin=FC 31-5
+Added Pin To Net: NetName=NetArduinoDue_0 Pin=FC 31-6
+Added Pin To Net: NetName=NetArduinoDue_1 Pin=FC 31-7
+Added Pin To Net: NetName=NetArduinoDue_16 Pin=FC 31-8
+Added Pin To Net: NetName=NetArduinoDue_17 Pin=FC 31-9
+Added Pin To Net: NetName=NetArduinoDue_10 Pin=FC 31-10
+Added Pin To Net: NetName=NetArduinoDue_20 Pin=FC 31-12
+Added Pin To Net: NetName=NetArduinoDue_21 Pin=FC 31-13
+Added Pin To Net: NetName=NetFC1_2 Pin=FC 32-1
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FC 32-2
+Added Pin To Net: NetName=NetArduinoDue_82 Pin=FC 32-3
+Added Pin To Net: NetName=NetArduinoDue_83 Pin=FC 32-4
+Added Pin To Net: NetName=NetArduinoDue_46 Pin=FCT 1-1
+Added Pin To Net: NetName=NetArduinoDue_47 Pin=FCT 1-2
+Added Pin To Net: NetName=NetArduinoDue_48 Pin=FCT 1-3
+Added Pin To Net: NetName=NetArduinoDue_49 Pin=FCT 1-4
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=FCT 1-5
+Added Pin To Net: NetName=NetFC1_2 Pin=FCT 1-6
+Added Pin To Net: NetName=NetArduinoDue_61 Pin=FCT 2-1
+Added Pin To Net: NetName=NetArduinoDue_4 Pin=FCT 2-2
+Added Pin To Net: NetName=NetArduinoDue_5 Pin=FCT 2-3
+Added Pin To Net: NetName=NetArduinoDue_18 Pin=FCT 2-4
+Added Pin To Net: NetName=NetArduinoDue_60 Pin=FCT 2-5
+Added Pin To Net: NetName=NetArduinoDue_2 Pin=FCT 2-6
+Added Pin To Net: NetName=NetArduinoDue_3 Pin=FCT 2-7
+Added Pin To Net: NetName=NetArduinoDue_63 Pin=FCT 3-1
+Added Pin To Net: NetName=NetArduinoDue_8 Pin=FCT 3-2
+Added Pin To Net: NetName=NetArduinoDue_9 Pin=FCT 3-3
+Added Pin To Net: NetName=NetArduinoDue_19 Pin=FCT 3-4
+Added Pin To Net: NetName=NetFC 27_10 Pin=FCT 3-5
+Added Pin To Net: NetName=NetArduinoDue_6 Pin=FCT 3-6
+Added Pin To Net: NetName=NetArduinoDue_7 Pin=FCT 3-7
+Added Pin To Net: NetName=NetArduinoDue_35 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetArduinoDue_42 Pin=J1-3
+Added Pin To Net: NetName=NetArduinoDue_37 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetFC13_3 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetFC17_6 Pin=J5-3
+Added Pin To Net: NetName=NetFC14_3 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetFC18_6 Pin=J6-3
+Added Pin To Net: NetName=NetFC15_3 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Pin To Net: NetName=NetFC19_6 Pin=J7-3
+Added Pin To Net: NetName=NetFC16_3 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Added Pin To Net: NetName=NetFC20_6 Pin=J8-3
+Added Pin To Net: NetName=NetArduinoDue_34 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=NetArduinoDue_36 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ11_2 Pin=J11-2
+Added Pin To Net: NetName=NetJ12_2 Pin=J12-2
+Added Pin To Net: NetName=NetFC26_16 Pin=J13-1
+Added Pin To Net: NetName=NetFC1_2 Pin=J13-2
+Added Pin To Net: NetName=NetFC 27_16 Pin=J14-1
+Added Pin To Net: NetName=NetFC1_2 Pin=J14-2
+Added Pin To Net: NetName=NetFC13_2 Pin=Regulador de Tensão A-0
+Added Pin To Net: NetName=NetJ5_2 Pin=Regulador de Tensão A-1
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=Regulador de Tensão A-2
+Added Pin To Net: NetName=NetArduinoDue_56 Pin=Regulador de Tensão A-3
+Added Pin To Net: NetName=NetFC14_2 Pin=Regulador de Tensão A-4
+Added Pin To Net: NetName=NetJ6_2 Pin=Regulador de Tensão A-5
+Added Pin To Net: NetName=NetJ9_2 Pin=Regulador de Tensão A-6
+Added Pin To Net: NetName=NetJ1_2 Pin=Regulador de Tensão A-7
+Added Pin To Net: NetName=NetArduinoDue_58 Pin=Regulador de Tensão A-8
+Added Pin To Net: NetName=NetFC1_2 Pin=Regulador de Tensão A-9
+Added Pin To Net: NetName=NetJ10_2 Pin=Regulador de Tensão A-10
+Added Pin To Net: NetName=NetJ2_2 Pin=Regulador de Tensão A-11
+Added Pin To Net: NetName=NetFC15_2 Pin=Regulador de Tensão B-0
+Added Pin To Net: NetName=NetJ7_2 Pin=Regulador de Tensão B-1
+Added Pin To Net: NetName=NetFC13_4 Pin=Regulador de Tensão B-2
+Added Pin To Net: NetName=NetFC13_1 Pin=Regulador de Tensão B-3
+Added Pin To Net: NetName=NetFC16_2 Pin=Regulador de Tensão B-4
+Added Pin To Net: NetName=NetJ8_2 Pin=Regulador de Tensão B-5
+Added Pin To Net: NetName=NetJ11_2 Pin=Regulador de Tensão B-6
+Added Pin To Net: NetName=NetJ3_2 Pin=Regulador de Tensão B-7
+Added Pin To Net: NetName=NetFC13_4 Pin=Regulador de Tensão B-8
+Added Pin To Net: NetName=NetFC1_2 Pin=Regulador de Tensão B-9
+Added Pin To Net: NetName=NetJ12_2 Pin=Regulador de Tensão B-10
+Added Pin To Net: NetName=NetJ4_2 Pin=Regulador de Tensão B-11
+Added Member To Class: ClassName=PlacaCircuito Member=Component ArduinoDue Component_1
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC1 Flat Cable 1
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC2 Flat Cable 2
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC3 Flat Cable 3
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC4 Flat Cable 4
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC5 Flat Cable 5
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC6 Flat Cable 6
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC7 Flat Cable 7
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC8 Flat Cable 8
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC9 Flat Cable 9
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC10 Flat Cable 10
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC11 Flat Cable 11
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC12 Flat Cable 12
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC13 Flat Cable 13
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC14 Flat Cable 14
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC15 Flat Cable 15
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC16 Flat Cable 16
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC17 Flat Cable 17
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC18 Flat Cable 18
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC19 Flat Cable 19
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC20 Flat Cable 20
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC21 Flat Cable 21
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC22 Flat Cable 22
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC23 Flat Cable 23
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC24 Flat Cable 24
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC25 Flat Cable 25
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC26 Flat Cable 26
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC 27 Flat Cable 27
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC 28 Flat Cable 28
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC 29 Flat Cable 29
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC 30 Flat Cable 30
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC 31 Flat Cable 31
+Added Member To Class: ClassName=PlacaCircuito Member=Component FC 32 Flat Cable 32
+Added Member To Class: ClassName=PlacaCircuito Member=Component FCT 1 Flat Cable Transf. 1
+Added Member To Class: ClassName=PlacaCircuito Member=Component FCT 2 Flat Cable Transf. 2
+Added Member To Class: ClassName=PlacaCircuito Member=Component FCT 3 Flat Cable Transf. 3
+Added Member To Class: ClassName=PlacaCircuito Member=Component J1 Jumper 1
+Added Member To Class: ClassName=PlacaCircuito Member=Component J2 Jumper 2
+Added Member To Class: ClassName=PlacaCircuito Member=Component J3 Jumper 3
+Added Member To Class: ClassName=PlacaCircuito Member=Component J4 Jumper 4
+Added Member To Class: ClassName=PlacaCircuito Member=Component J5 Jumper 5
+Added Member To Class: ClassName=PlacaCircuito Member=Component J6 Jumper 6
+Added Member To Class: ClassName=PlacaCircuito Member=Component J7 Jumper 7
+Added Member To Class: ClassName=PlacaCircuito Member=Component J8 Jumper 8
+Added Member To Class: ClassName=PlacaCircuito Member=Component J9 Jumper 9
+Added Member To Class: ClassName=PlacaCircuito Member=Component J10 Jumper 10
+Added Member To Class: ClassName=PlacaCircuito Member=Component J11 Jumper 11
+Added Member To Class: ClassName=PlacaCircuito Member=Component J12 Jumper 12
+Added Member To Class: ClassName=PlacaCircuito Member=Component J13 Jumper 13
+Added Member To Class: ClassName=PlacaCircuito Member=Component J14 Jumper 14
+Added Member To Class: ClassName=PlacaCircuito Member=Component Regulador de Tensão A
+Added Member To Class: ClassName=PlacaCircuito Member=Component Regulador de Tensão B
+Added Room: Name=PlacaCircuito

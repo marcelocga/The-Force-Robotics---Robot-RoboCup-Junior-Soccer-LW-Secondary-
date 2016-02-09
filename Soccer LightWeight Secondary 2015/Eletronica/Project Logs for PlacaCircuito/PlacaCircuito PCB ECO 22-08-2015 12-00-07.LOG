@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=NetFC1_2 Pin=ArduinoDue-55
+Added Pin To Net: NetName=NetFC13_4 Pin=ArduinoDue-76
+Added Pin To Net: NetName=NetFC13_1 Pin=ArduinoDue-81
+Change Net Name : Old Net Name=NetFC1_2 New Net Name=NetArduinoDue_55
+Change Net Name : Old Net Name=NetFC13_1 New Net Name=NetArduinoDue_81
+Change Net Name : Old Net Name=NetFC13_4 New Net Name=NetArduinoDue_76
+Added Pin To Net: NetName=NetArduinoDue_39 Pin=ArduinoDue-39
+Added Pin To Net: NetName=NetArduinoDue_39 Pin=J3-1
+Added Net: Name=NetArduinoDue_39
+Added Pin To Net: NetName=NetArduinoDue_40 Pin=ArduinoDue-40
+Added Pin To Net: NetName=NetArduinoDue_40 Pin=J12-1
+Added Net: Name=NetArduinoDue_40
+Added Pin To Net: NetName=NetArduinoDue_41 Pin=ArduinoDue-41
+Added Pin To Net: NetName=NetArduinoDue_41 Pin=J4-1
+Added Net: Name=NetArduinoDue_41
+Added Pin To Net: NetName=NetArduinoDue_43 Pin=ArduinoDue-43
+Added Pin To Net: NetName=NetArduinoDue_43 Pin=J2-3
+Added Net: Name=NetArduinoDue_43
+Added Pin To Net: NetName=NetArduinoDue_45 Pin=ArduinoDue-45
+Added Pin To Net: NetName=NetArduinoDue_45 Pin=J4-3
+Added Net: Name=NetArduinoDue_45
+Added Pin To Net: NetName=NetArduinoDue_62 Pin=ArduinoDue-62
+Added Pin To Net: NetName=NetArduinoDue_62 Pin=FC 27-10
+Added Pin To Net: NetName=NetArduinoDue_62 Pin=FCT 3-5
+Added Net: Name=NetArduinoDue_62

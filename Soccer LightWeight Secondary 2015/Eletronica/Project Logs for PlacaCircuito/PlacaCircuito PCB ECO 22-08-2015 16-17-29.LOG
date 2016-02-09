@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetArduinoDue_55 Pin=FC1-2
+Removed Pin From Net: NetName=NetArduinoDue_55 Pin=FC2-2
+Removed Pin From Net: NetName=NetArduinoDue_55 Pin=FC3-2
+Removed Pin From Net: NetName=NetArduinoDue_55 Pin=FC4-2
+Removed Pin From Net: NetName=NetArduinoDue_55 Pin=FC5-2
+Removed Pin From Net: NetName=NetArduinoDue_55 Pin=FC6-2
+Removed Pin From Net: NetName=NetArduinoDue_55 Pin=FC7-2
+Removed Pin From Net: NetName=NetArduinoDue_55 Pin=FC8-2
+Removed Pin From Net: NetName=NetArduinoDue_55 Pin=FC9-2
+Removed Pin From Net: NetName=NetArduinoDue_55 Pin=FC10-2
+Removed Pin From Net: NetName=NetArduinoDue_55 Pin=FC11-2
+Removed Pin From Net: NetName=NetArduinoDue_55 Pin=FC12-2
+Added Component: Designator=J15(HDR1X3)
+Added Pin To Net: NetName=NetFC1_2 Pin=FC1-2
+Added Pin To Net: NetName=NetFC1_2 Pin=FC2-2
+Added Pin To Net: NetName=NetFC1_2 Pin=FC3-2
+Added Pin To Net: NetName=NetFC1_2 Pin=FC4-2
+Added Pin To Net: NetName=NetFC1_2 Pin=FC5-2
+Added Pin To Net: NetName=NetFC1_2 Pin=FC6-2
+Added Pin To Net: NetName=NetFC1_2 Pin=FC7-2
+Added Pin To Net: NetName=NetFC1_2 Pin=FC8-2
+Added Pin To Net: NetName=NetFC1_2 Pin=FC9-2
+Added Pin To Net: NetName=NetFC1_2 Pin=FC10-2
+Added Pin To Net: NetName=NetFC1_2 Pin=FC11-2
+Added Pin To Net: NetName=NetFC1_2 Pin=FC12-2
+Added Pin To Net: NetName=NetFC1_2 Pin=J15-2
+Added Net: Name=NetFC1_2
+Added Member To Class: ClassName=PlacaCircuito Member=Component J15  Jumper 15

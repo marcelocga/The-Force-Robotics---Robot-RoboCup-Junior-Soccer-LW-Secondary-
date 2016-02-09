@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=R.T. A NewDesignator=Regulador de Tensão A
+Change Component Designator: OldDesignator=R.T. B NewDesignator=Regulador de Tensão B
+Added Pin To Net: NetName=NetArduinoDue_44 Pin=ArduinoDue-44
+Added Pin To Net: NetName=NetArduinoDue_44 Pin=J3-3
+Added Net: Name=NetArduinoDue_44
+Added Room: Name=PlacaCircuito
